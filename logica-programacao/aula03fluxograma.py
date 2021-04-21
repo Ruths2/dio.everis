@@ -14,7 +14,7 @@ m = s/4
 
 print ('Sua média foi {:.1f}' . format (m))
 
-if (m > 7):
+if (m >= 7):
    print ('Parabens! Você passou de ano.')
 else:
     print ('Sinto muito, você foi reprovado.')
