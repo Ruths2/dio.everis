@@ -1,0 +1,2 @@
+O meu 1° repositório git salvo no github foi o livro de receita (ensinado pela DIO) que se encontra disponível aqui no github. Como eu não tenho computador e faço tudo pelo celular, foi muito difícil se encontrar no github pois, além de ser inglês a página fica diferente no celular. 
+Uma dica para você ter uma melhor experiência se você utiliza o celular  como eu, é ir nos 3 pontinhos no canto direito e marcar a opção "Para computador", assim a visualização ficará igual como se estivesse em um computador.
