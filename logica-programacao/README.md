@@ -23,10 +23,15 @@ Exemplo variável:
 
 ----
 
-### Constate:
+### Constante:
 
 São valores imutáveis e não se alteram durante a vida útil do programa, ou espaço na memória do computador que não se modifica.
 
 ----
+
+### Desvio condicional
+
+# se - if
+
 
 
