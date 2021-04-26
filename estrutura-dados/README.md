@@ -8,19 +8,11 @@
   
   Exemplo de array vetor:
  
-  |:---------:|:----------:|:---------:|:----------:|
-  | João  | Ana    | Pedro | Julia |
-  | **0** | **1** | **2** | **3** |
+  ![Screenshot_20210426-131017~2](Screenshot_20210426-131017~2.png)
   
   Exemplo de array matriz:
 
-
-|:---------:|:----------:|:---------:|:---------:|:---------:|
-|            | **0** | **1** | **2** | **3**  |
-| **0** | João   | Sara  | Darla | Sandro |
-| **1** |  Ana    | Bento | Fabio | Maria |
-| **2** | Pedro | Lucia | Paulo|   Luis    |
-| **3** | Julia   | Otavio | Lais |   Kelly   | 
+![Screenshot_20210426-132142](Screenshot_20210426-132142.png)
 
  Apos colocar os respectivos dados na memoria não se pode mudar.
   
