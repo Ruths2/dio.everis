@@ -1,22 +1,34 @@
-# Seja bem vindo ao meu progresso no bootcamp Everis-Klotin 📖
+# Seja bem vindo ao meu progresso no bootcamp Everis-Klotin ❣️
 
-## Você poderá acompanhar e aprender junto comigo sobre programação em Klotin com a empresa Everis 
+## Você poderá acompanhar, e aprender junto comigo sobre programação em Klotin, com as incríveis empresas DIO e Everis 📖📱👩🏻‍💻🔝
 
 <details markdown='1'><summary>Logica de programação</summary>
--  Lógica e algoritimos
--  Fluxograma
--  Variável e Constante
+
+-  Algoritmo
+- Fluxograma
+-  Variável
+- Constante
+-  Desvio condicional
 
 </details>
 
 
 <details markdown='1'><summary>Estrutura de dados</summary>
-- 
+
+- Array/vetor e matriz
+-  Listas
+- Pilhas
+- Filas
+- Tabela Hashing
+- Grafo
+- Arvore
 
 </details>
 
 <details markdown='1'><summary>Git/Github</summary>
-- 
+
+- Dicas
+- Comandos do git/github
 
 </details>
 
