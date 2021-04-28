@@ -42,7 +42,7 @@
  
   Exemplo do formato LIFO com as operações push (empilhar) e pop (desempilhar):
   
-  
+  ![Lifo_stack](Lifo_stack.png)
 
 ## <span style='color:#cb74ff;'>Filas</span>
 
