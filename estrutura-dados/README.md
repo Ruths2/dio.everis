@@ -8,11 +8,11 @@
   
   Exemplo de array vetor:
  
-  ![Screenshot_20210426-131017~2](Screenshot_20210426-131017~2.png)
+  ![Screenshot_20210428-030331](Screenshot_20210428-030331.png)
   
   Exemplo de array matriz:
 
-![Screenshot_20210426-132142](Screenshot_20210426-132142.png)
+![Screenshot_20210428-030224](Screenshot_20210428-030224.png)
 
  Apos colocar os respectivos dados na memoria não se pode mudar.
   
