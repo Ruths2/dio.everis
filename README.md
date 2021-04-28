@@ -4,31 +4,31 @@
 
 <details markdown='1'><summary>Logica de programação</summary>
 
--  Algoritmo
-- Fluxograma
--  Variável
-- Constante
--  Desvio condicional
+-  Algoritmo.
+- Fluxograma.
+-  Variável.
+- Constante.
+-  Desvio condicional e de repetição.
 
 </details>
 
 
 <details markdown='1'><summary>Estrutura de dados</summary>
 
-- Array/vetor e matriz
--  Listas
-- Pilhas
-- Filas
-- Tabela Hashing
-- Grafo
-- Arvore
+- Array/vetor e matriz.
+-  Listas.
+- Pilhas.
+- Filas.
+- Tabela Hashing.
+- Grafo.
+- Arvore.
 
 </details>
 
 <details markdown='1'><summary>Git/Github</summary>
 
-- Dicas
-- Comandos do git/github
+- Dicas.
+- Comandos do git/github.
 
 </details>
 
