@@ -62,7 +62,7 @@
   
   Exemplo de uma tabela hash:
   
-  ![Hash2](Hash2.JPG)
+  ![Screenshot_20210428-185131](Screenshot_20210428-185131.png)
 
 ## <span style='color:#cb74ff;'>Grafo</span>
 
@@ -70,7 +70,7 @@
 
   Exemplo de um grafo:
   
-  ![grafo-exemplo-1-768x460](grafo-exemplo-1-768x460.gif)
+  ![grafo-exemplo-1-768x460](grafo-exemplo-1-768x460.gif) 
   
    No exemplo acima, conseguimos ver que : V = {1, 2, 3, 4, 5, 6} e E = {(1,3), (1,6), (2,5), (3,4), (3,6)
 
