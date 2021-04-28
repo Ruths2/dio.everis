@@ -42,7 +42,7 @@
  
   Exemplo do formato LIFO com as operações push (empilhar) e pop (desempilhar):
   
-  ![Lifo_stack](Lifo_stack.png)
+  
 
 ## <span style='color:#cb74ff;'>Filas</span>
 
@@ -81,7 +81,7 @@
  A imagem abaixo ilustra a representação de uma árvore, onde é possível perceber a analogia do termo utilizado para a estrutura.
  
  ![trees_01a](trees_01a.png)
-![trees_01b](trees_01b.png)
+ ![trees_01b](trees_01b.png)
 
 A estrutura arvore armazena seus dados em nós (nodos). Existe o nó raiz, os nós filhos e pais, e os nós folhas.
 
