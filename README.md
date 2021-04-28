@@ -19,7 +19,7 @@
 -  Listas.
 - Pilhas.
 - Filas.
-- Tabela Hashing.
+- Tabela hash.
 - Grafo.
 - Arvore.
 
