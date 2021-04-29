@@ -1,6 +1,6 @@
-# Seja bem vindo ao meu progresso no bootcamp Everis-Klotin ❣️
+# Seja bem vindo ao meu progresso no bootcamp Everis-Kotlin ❣️
 
-## Você poderá acompanhar, e aprender junto comigo sobre programação em Klotin, com as incríveis empresas DIO e Everis 📖📱👩🏻‍💻🔝
+## Você poderá acompanhar, e aprender junto comigo sobre programação em Kotlin, com as incríveis empresas DIO e Everis 📖📱👩🏻‍💻🔝
 
 <details markdown='1'><summary>Logica de programação</summary>
 
@@ -32,7 +32,7 @@
 
 </details>
 
-<details markdown='1'><summary>Klotin</summary>
+<details markdown='1'><summary>Kotlin</summary>
 - 
 
 </details>
