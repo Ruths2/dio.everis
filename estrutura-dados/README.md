@@ -8,11 +8,11 @@
   
   Exemplo de array vetor:
  
-  ![Screenshot_20210428-030331](Screenshot_20210428-030331.png)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/5BRppdr/Screenshot-20210428-030331.png" alt="Screenshot-20210428-030331" border="0" /></a>
   
   Exemplo de array matriz:
 
-![Screenshot_20210428-030224](Screenshot_20210428-030224.png)
+<a href="https://ibb.co/BzHtHBW"><img src="https://i.ibb.co/5MX6XLp/Screenshot-20210428-030224.png" alt="Screenshot-20210428-030224" border="0" /></a>
 
  Apos colocar os respectivos dados na memoria não se pode mudar.
   
@@ -25,12 +25,12 @@
  
  Exemplo lista ligada:
  
- ![lista_com_dois_elementos](lista_com_dois_elementos.png)
- 
+<a href="https://ibb.co/d7QDyJs"><img src="https://i.ibb.co/DL7QngP/lista-com-dois-elementos.png" alt="lista-com-dois-elementos" border="0" /></a>
+
  Exemplo lista duplamente ligada:
  
- ![lista_duplamente_ligada](lista_duplamente_ligada.png)
- 
+<a href="https://ibb.co/DGJx8KP"><img src="https://i.ibb.co/FsrS07k/lista-duplamente-ligada.png" alt="lista-duplamente-ligada" border="0" /></a>
+  
  
 ## <span style='color:#cb74ff;'>Pilhas</span>
 
@@ -38,11 +38,11 @@
  
  Lembre-se da pilha como uma pilha de livros, em que o primeiro livro que foi inserido na pilha, normalmente é o último que sai dela, enquanto o último adicionado é o primeiro a ser retirado.
  
- ![Pilha_Java1](Pilha_Java1.jpg)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/m0Pj3n0/Pilha-Java1.jpg" alt="Pilha-Java1" border="0" /></a>
  
   Exemplo do formato LIFO com as operações push (empilhar) e pop (desempilhar):
   
-  ![Lifo_stack](Lifo_stack.png)
+<a href="https://ibb.co/3BJV2w2"><img src="https://i.ibb.co/syBcnhn/Lifo-stack.png" alt="Lifo-stack" border="0" /></a>
 
 ## <span style='color:#cb74ff;'>Filas</span>
 
@@ -50,11 +50,11 @@
  
   Lembre-se da fila como uma fila de banco, em que o primeiro a chegar da fila é o primeiro a ser atendido, ou seja, primeiro a sair da fila.
   
-  ![fila_de_banco](fila_de_banco.jpg)
+<a href="https://ibb.co/D47M4Wz"><img src="https://i.ibb.co/Y2td2QP/fila-de-banco.jpg" alt="fila-de-banco" border="0" /></a>
   
   Exemplo do formato LIFO com as operações enqueue (enfileirar) e dequeue (desenfileirar):
   
-  ![Fifo_queue](Fifo_queue.png)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/PCSfybW/Fifo-queue.png" alt="Fifo-queue" border="0" /></a>
 
 ## <span style='color:#cb74ff;'>Tabela hash</span>
 
@@ -62,7 +62,7 @@
   
   Exemplo de uma tabela hash:
   
-  ![Screenshot_20210428-185131](Screenshot_20210428-185131.png)
+<a href="https://ibb.co/TtxV8H3"><img src="https://i.ibb.co/tDT7sbr/Screenshot-20210428-185131.png" alt="Screenshot-20210428-185131" border="0" /></a>
 
 ## <span style='color:#cb74ff;'>Grafo</span>
 
@@ -70,7 +70,7 @@
 
   Exemplo de um grafo:
   
-  ![grafo-exemplo-1-768x460](grafo-exemplo-1-768x460.gif) 
+<a href="https://ibb.co/7JwQ1Lm"><img src="https://i.ibb.co/1fDMmjW/grafo-exemplo-1-768x460.gif" alt="grafo-exemplo-1-768x460" border="0" /></a> 
   
    No exemplo acima, conseguimos ver que : V = {1, 2, 3, 4, 5, 6} e E = {(1,3), (1,6), (2,5), (3,4), (3,6)
 
@@ -80,26 +80,26 @@
  
  A imagem abaixo ilustra a representação de uma árvore, onde é possível perceber a analogia do termo utilizado para a estrutura.
  
- ![trees_01a](trees_01a.png)
- ![trees_01b](trees_01b.png)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/qgvQSXJ/trees-01b.png" alt="trees-01b" border="0" /></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/5vW39pM/trees-01a.png" alt="trees-01a" border="0" /></a>
 
 A estrutura arvore armazena seus dados em nós (nodos). Existe o nó raiz, os nós filhos e pais, e os nós folhas.
 
 Exemplo: 
 - Nó raiz :
 
-![trees_01a~3](trees_01a~3.png)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/th1SBqg/trees-01a-3.png" alt="trees-01a-3" border="0" /></a>
 
 - Nós pais e filhos:
 
-![Screenshot_20210428-153756](Screenshot_20210428-153756.png)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/t4s6rFc/Screenshot-20210428-153756.png" alt="Screenshot-20210428-153756" border="0" /></a>
 
-![Screenshot_20210428-154046](Screenshot_20210428-154046.png)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/B6wPN9b/Screenshot-20210428-154046.png" alt="Screenshot-20210428-154046" border="0" /></a>
 
 - Nós folhas :
 
-![Screenshot_20210428-154255](Screenshot_20210428-154255.png)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/HKJ1hp0/Screenshot-20210428-154255.png" alt="Screenshot-20210428-154255" border="0" /></a>
 
  Abaixo uma imagem bonitinha para ser lembrado dos nós folhas 😊❣️⬇️
 
-![trees_09](trees_09.png)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/GWTTZFr/trees-09.png" alt="trees-09" border="0" /></a>
